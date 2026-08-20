@@ -84,17 +84,17 @@ Mobile game prototype built in Unity.
 
 **Unity · C# · Mobile**
 
-[Download APK](https://github.com/svelhinh/Projects/blob/master/Projects/TowerSpin/TowerSpin.apk)
+[Download APK](https://github.com/svelhinh/portfolio/blob/master/Projects/TowerSpin/TowerSpin.apk)
 
-<p><img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/TowerSpin/Gameplay.gif" width="500"></p>
+<p><img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/TowerSpin/Gameplay.gif" width="500"></p>
 
 ### Swipe-O
 
 Mobile game prototype.
 
-[Download APK](https://github.com/svelhinh/Projects/blob/master/Projects/SwipeO/swipe-o_v1.01.apk)
+[Download APK](https://github.com/svelhinh/portfolio/blob/master/Projects/SwipeO/swipe-o_v1.01.apk)
 
-<p><img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/SwipeO/Gameplay.gif" width="500"></p>
+<p><img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/SwipeO/Gameplay.gif" width="500"></p>
 
 ### Who's gonna die?
 
@@ -103,9 +103,9 @@ Mobile game project with a playable Android build.
 [Watch trailer](https://drive.google.com/file/d/10tuIM6unfviUQe2xzirfL4p8pTIQ_OYp/view) · [Download APK](https://drive.google.com/open?id=1i5E4qo1okZ1t75rPEP3HzllYzTTWwzPz)
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/who_s_gonna_die/images/Capture.PNG" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/who_s_gonna_die/images/Capture2.PNG" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/who_s_gonna_die/images/Capture3.PNG" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/who_s_gonna_die/images/Capture.PNG" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/who_s_gonna_die/images/Capture2.PNG" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/who_s_gonna_die/images/Capture3.PNG" width="220">
 </p>
 
 ### Pokémon VR
@@ -113,15 +113,15 @@ Mobile game project with a playable Android build.
 VR experimentation around Pokémon-inspired interactions, UI and animations.
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/PokemonVR/Pokemon VR 2022 Animations.gif" width="400">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/PokemonVR/Lancer_Pokeball.gif" width="400">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/PokemonVR/Pokemon VR 2022 Animations.gif" width="400">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/PokemonVR/Lancer_Pokeball.gif" width="400">
 </p>
 
 ### Rain Battle
 
 Small game created during a **1-hour game jam**.
 
-<p><img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/RainBattle/Illustration.JPG" width="500"></p>
+<p><img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/RainBattle/Illustration.JPG" width="500"></p>
 
 ---
 
@@ -133,43 +133,43 @@ These projects are kept as part of my development history and include graphics p
 ### RT
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/rt/earth.gif" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/rt/reflections_cartoon.png" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/rt/solar_system.png" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/rt/earth.gif" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/rt/reflections_cartoon.png" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/rt/solar_system.png" width="220">
 </p>
 
 ### RTV1
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/rtv1/columns.png" width="250">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/rtv1/all.png" width="250">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/rtv1/columns.png" width="250">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/rtv1/all.png" width="250">
 </p>
 
 ### Wolf3D
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/wolf3d/menu.png" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/wolf3d/wolf1.gif" width="300">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/wolf3d/menu.png" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/wolf3d/wolf1.gif" width="300">
 </p>
 
 ### Fract'ol
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/fractol/mandelbrot.png" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/fractol/julia.png" width="220">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/fractol/star.png" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/fractol/mandelbrot.png" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/fractol/julia.png" width="220">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/fractol/star.png" width="220">
 </p>
 
 ### FDF
 
 <p>
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/fdf/europe.png" width="230">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/fdf/joconde.png" width="230">
-<img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/fdf/mandelbrot.png" width="230">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/fdf/europe.png" width="230">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/fdf/joconde.png" width="230">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/fdf/mandelbrot.png" width="230">
 </p>
 
 ### Wong Kar Wai
 
-<p><img src="https://github.com/svelhinh/Projects/blob/master/Projects/images/wong_kar_wai/2048.png" width="300"></p>
+<p><img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/wong_kar_wai/2048.png" width="300"></p>
 
 </details>
