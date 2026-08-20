@@ -74,7 +74,7 @@ The original store listing is no longer available because the release is now too
 
 **Unity · C# · Android**
 
-[Gameplay video](https://youtu.be/isYbgJEI0S8)
+[Download APK](https://raw.githubusercontent.com/svelhinh/portfolio/master/Projects/MagiColor/magicolor_release_v1_01.apk) · [Gameplay video](https://youtu.be/isYbgJEI0S8)
 
 <p>
 <img src="https://lh3.googleusercontent.com/rWrVDbVLpPlfk4OklLr0hFEP4wZJGhkF2UMUZ05bjCv5j_C27pkySdSY_ho64QbgMVs=w2924-h1476-rw" width="180"/>
