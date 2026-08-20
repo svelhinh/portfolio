@@ -2,11 +2,11 @@
 
 A selection of professional work, personal projects and older technical projects from different stages of my career.
 
-My recent professional work is primarily **Flutter/mobile development**. Source code for commercial projects is private or proprietary where applicable, so those projects are presented here through their released products and my contribution.
+My recent professional work is primarily **Flutter/mobile development**. Source code for commercial projects is private or proprietary where applicable. Released products are linked when available, while unreleased work is clearly identified as such.
 
 > This repository also acts as a long-term archive. Older projects are kept for historical context and do not necessarily reflect my current engineering practices.
 
-## Production mobile applications
+## Professional mobile work
 
 ### Eira — Flutter Developer
 
@@ -44,9 +44,9 @@ I worked on meal logging flows including barcode, voice and manual input, onboar
 
 ### Profiler — Flutter Developer
 
-Mobile application focused on profile feedback, swipe-based interactions and user insights.
+Unreleased mobile application focused on profile feedback, swipe-based interactions and user insights.
 
-I worked on the Flutter application as a freelance developer, covering product implementation and mobile UI flows.
+I worked on the Flutter application as a freelance developer, covering product implementation and mobile UI flows. The application was not publicly launched.
 
 **Flutter · Dart · Mobile UI**
 
@@ -54,7 +54,9 @@ _Source code is private._
 
 ### Printisk — Flutter Developer
 
-Printing platform spanning **mobile, desktop and web**, including Flutter applications and internal product tooling.
+Unreleased printing platform spanning **mobile, desktop and web**, including Flutter applications and internal product tooling.
+
+The product was not publicly launched.
 
 **Flutter · Dart · Mobile · Desktop · Web**
 
@@ -66,11 +68,13 @@ _Source code is private._
 
 ### MagiColor
 
-Mobile game released on Android.
+Mobile game previously published on **Google Play**.
+
+The original store listing is no longer available because the release is now too old and has since been removed from Google Play.
 
 **Unity · C# · Android**
 
-[Google Play](https://play.google.com/store/apps/details?id=com.Ninjoy.MagiColor) · [Gameplay video](https://youtu.be/isYbgJEI0S8)
+[Gameplay video](https://youtu.be/isYbgJEI0S8)
 
 <p>
 <img src="https://lh3.googleusercontent.com/rWrVDbVLpPlfk4OklLr0hFEP4wZJGhkF2UMUZ05bjCv5j_C27pkySdSY_ho64QbgMVs=w2924-h1476-rw" width="180"/>
