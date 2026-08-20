@@ -88,7 +88,7 @@ Mobile game prototype built in Unity.
 
 **Unity · C# · Mobile**
 
-[Download APK](https://github.com/svelhinh/portfolio/blob/master/Projects/TowerSpin/TowerSpin.apk)
+[Download APK](https://raw.githubusercontent.com/svelhinh/portfolio/master/Projects/TowerSpin/TowerSpin.apk)
 
 <p><img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/TowerSpin/Gameplay.gif" width="500"></p>
 
@@ -96,7 +96,7 @@ Mobile game prototype built in Unity.
 
 Mobile game prototype.
 
-[Download APK](https://github.com/svelhinh/portfolio/blob/master/Projects/SwipeO/swipe-o_v1.01.apk)
+[Download APK](https://raw.githubusercontent.com/svelhinh/portfolio/master/Projects/SwipeO/swipe-o_v1.01.apk)
 
 <p><img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/SwipeO/Gameplay.gif" width="500"></p>
 
