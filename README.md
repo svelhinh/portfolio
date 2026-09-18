@@ -8,7 +8,7 @@ My recent professional work is primarily **Flutter/mobile development**. Source 
 
 ## Professional mobile work
 
-### Eira — Flutter Developer
+### Eira - Flutter Developer
 
 Well-being and focus application released on **iOS and Android**.
 
@@ -25,7 +25,7 @@ I worked across Flutter development, Riverpod/Provider state management, UX/UI a
 <img src="https://play-lh.googleusercontent.com/fnTgV8ScTBjDmluU2b8UaJKu5l_H8-DCWL_MfRAl3eYyEvFZ59JHtuDi5vipnF7cju1v6TeFFiK7CzdiF0aGK_s=w5120-h2880-rw" width="150"/>
 </p>
 
-### Kojo — Senior Flutter Developer
+### Kojo - Senior Flutter Developer
 
 AI-powered nutrition app released on **iOS and Android**.
 
@@ -42,7 +42,7 @@ I worked on meal logging flows including barcode, voice and manual input, onboar
 <img src="https://play-lh.googleusercontent.com/YFikVAQgbCDJlkMwKCtNVNhHl__6yE9MXqRZD278j5v7MC5ni1zKXayWfHu6IQ-fmw=w5120-h2880-rw" width="150"/>
 </p>
 
-### Profiler — Flutter Developer
+### Profiler - Flutter Developer
 
 Unreleased mobile application focused on profile feedback, swipe-based interactions and user insights.
 
@@ -52,7 +52,7 @@ I worked on the Flutter application as a freelance developer, covering product i
 
 _Source code is private._
 
-### Printisk — Flutter Developer
+### Printisk - Flutter Developer
 
 Unreleased printing platform spanning **mobile, desktop and web**, including Flutter applications and internal product tooling.
 
@@ -117,7 +117,7 @@ Mobile game project with a playable Android build.
 VR experimentation around Pokémon-inspired interactions, UI and animations.
 
 <p>
-<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/PokemonVR/Pokemon VR 2022 Animations.gif" width="400">
+<img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/PokemonVR/Pokemon%20VR%202022%20Animations.gif" width="400">
 <img src="https://github.com/svelhinh/portfolio/blob/master/Projects/images/PokemonVR/Lancer_Pokeball.gif" width="400">
 </p>
 
