@@ -66,6 +66,22 @@ _Source code is private._
 
 ## Personal & game projects
 
+### PlayTick
+
+Public Flutter portfolio application for managing a personal video game library and tracking actual playtime through individual sessions.
+
+The first public v1 targets **Android** and covers the complete core flow: search IGDB, add games to a local library, manage statuses, run or add play sessions, keep notes, and review recorded playtime.
+
+**Flutter · Dart · Riverpod · Drift / SQLite · GoRouter · IGDB · REST · FR / EN · Tests · GitHub Actions**
+
+[Source code & documentation](https://github.com/svelhinh/PlayTick) · [Android v1 release](https://github.com/svelhinh/PlayTick/releases/tag/v1.0.0-android)
+
+<p>
+<img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/home-en.png" width="180"/>
+<img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/search-en.png" width="180"/>
+<img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/game-details-en.png" width="180"/>
+</p>
+
 ### MagiColor
 
 Mobile game previously published on **Google Play**.
