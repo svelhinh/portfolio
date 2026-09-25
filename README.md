@@ -68,18 +68,28 @@ _Source code is private._
 
 ### PlayTick
 
-Public Flutter portfolio application for managing a personal video game library and tracking actual playtime through individual sessions.
+Public Flutter portfolio application for **Android and iOS** for managing a personal video game library and tracking actual playtime through individual sessions.
 
-The first public v1 targets **Android** and covers the complete core flow: search IGDB, add games to a local library, manage statuses, run or add play sessions, keep notes, and review recorded playtime.
+The v1 covers the complete core flow: search IGDB, add games to a local library, manage statuses, run or add play sessions, keep notes, and review recorded playtime. The domain and data layers are shared across platforms, with platform-specific UI refinements where they improve the native experience.
 
-**Flutter · Dart · Riverpod · Drift / SQLite · GoRouter · IGDB · REST · FR / EN · Tests · GitHub Actions**
+**Flutter · Dart · Riverpod · Drift / SQLite · GoRouter · IGDB · REST · iOS · Android · FR / EN · Tests · GitHub Actions**
 
-[Source code & documentation](https://github.com/svelhinh/PlayTick) · [Android v1 release](https://github.com/svelhinh/PlayTick/releases/tag/v1.0.0-android)
+[Source code & documentation](https://github.com/svelhinh/PlayTick)
+
+**Android**
 
 <p>
 <img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/home-en.png" width="180"/>
 <img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/search-en.png" width="180"/>
 <img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/game-details-en.png" width="180"/>
+</p>
+
+**iOS**
+
+<p>
+<img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/home-ios-en.png" width="180"/>
+<img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/library-ios-en.png" width="180"/>
+<img src="https://raw.githubusercontent.com/svelhinh/PlayTick/main/docs/screenshots/game-details-ios-en.png" width="180"/>
 </p>
 
 ### MagiColor
